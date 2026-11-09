@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools==80.9.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agent-tool-capabilities"
+version = "1.0.0"
+description = "Process-local capability enforcement with reproducible adversarial evidence"
+requires-python = ">=3.11"
+license = "MIT"
+
+[tool.setuptools.packages.find]
+include = ["agent_capabilities*"]
+
+[tool.ruff]
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+files = ["agent_capabilities"]
+
+[tool.coverage.run]
+branch = true
+source = ["agent_capabilities"]
+
+[tool.coverage.report]
+show_missing = true
+fail_under = 95
