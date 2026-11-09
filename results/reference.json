@@ -1,0 +1,2147 @@
+{
+  "concurrency": [
+    {
+      "admitted": 7,
+      "after": {
+        "/owned/note": "okokokokokokok"
+      },
+      "attempts": 64,
+      "decisions": [
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 126,
+          "remaining_calls": 6,
+          "resource": "/owned/note",
+          "sequence": 1,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 124,
+          "remaining_calls": 5,
+          "resource": "/owned/note",
+          "sequence": 2,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 122,
+          "remaining_calls": 4,
+          "resource": "/owned/note",
+          "sequence": 3,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 120,
+          "remaining_calls": 3,
+          "resource": "/owned/note",
+          "sequence": 4,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 118,
+          "remaining_calls": 2,
+          "resource": "/owned/note",
+          "sequence": 5,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 116,
+          "remaining_calls": 1,
+          "resource": "/owned/note",
+          "sequence": 6,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 7,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 8,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 9,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 10,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 11,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 12,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 13,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 14,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 15,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 16,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 17,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 18,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 19,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 20,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 21,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 22,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 23,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 24,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 25,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 26,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 27,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 28,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 29,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 30,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 31,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 32,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 33,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 34,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 35,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 36,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 37,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 38,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 39,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 40,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 41,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 42,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 43,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 44,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 45,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 46,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 47,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 48,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 49,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 50,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 51,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 52,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 53,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 54,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 55,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 56,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 57,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 58,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 59,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 60,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 61,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 62,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 63,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "call_budget",
+          "remaining_bytes": 114,
+          "remaining_calls": 0,
+          "resource": "/owned/note",
+          "sequence": 64,
+          "tool": "append"
+        }
+      ],
+      "denied": 57,
+      "initial_bytes": 128,
+      "initial_calls": 7,
+      "workers": 8
+    },
+    {
+      "admitted": 7,
+      "after": {
+        "/owned/note": "okokokokokokok"
+      },
+      "attempts": 64,
+      "decisions": [
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 12,
+          "remaining_calls": 63,
+          "resource": "/owned/note",
+          "sequence": 1,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 10,
+          "remaining_calls": 62,
+          "resource": "/owned/note",
+          "sequence": 2,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 8,
+          "remaining_calls": 61,
+          "resource": "/owned/note",
+          "sequence": 3,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 6,
+          "remaining_calls": 60,
+          "resource": "/owned/note",
+          "sequence": 4,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 4,
+          "remaining_calls": 59,
+          "resource": "/owned/note",
+          "sequence": 5,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 2,
+          "remaining_calls": 58,
+          "resource": "/owned/note",
+          "sequence": 6,
+          "tool": "append"
+        },
+        {
+          "allowed": true,
+          "charged_bytes": 2,
+          "grant_id": 1,
+          "reason": "allowed",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 7,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 8,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 9,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 10,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 11,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 12,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 13,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 14,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 15,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 16,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 17,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 18,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 19,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 20,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 21,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 22,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 23,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 24,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 25,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 26,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 27,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 28,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 29,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 30,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 31,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 32,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 33,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 34,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 35,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 36,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 37,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 38,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 39,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 40,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 41,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 42,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 43,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 44,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 45,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 46,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 47,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 48,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 49,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 50,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 51,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 52,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 53,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 54,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 55,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 56,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 57,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 58,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 59,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 60,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 61,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 62,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 63,
+          "tool": "append"
+        },
+        {
+          "allowed": false,
+          "charged_bytes": 0,
+          "grant_id": 1,
+          "reason": "byte_budget",
+          "remaining_bytes": 0,
+          "remaining_calls": 57,
+          "resource": "/owned/note",
+          "sequence": 64,
+          "tool": "append"
+        }
+      ],
+      "denied": 57,
+      "initial_bytes": 14,
+      "initial_calls": 64,
+      "workers": 8
+    }
+  ],
+  "in_flight_revocation": {
+    "after_completion": {
+      "/owned/note": "ok"
+    },
+    "before_completion": {},
+    "decisions": [
+      {
+        "allowed": true,
+        "charged_bytes": 2,
+        "grant_id": 1,
+        "reason": "allowed",
+        "remaining_bytes": 2,
+        "remaining_calls": 1,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "revoked",
+        "remaining_bytes": 2,
+        "remaining_calls": 1,
+        "resource": null,
+        "sequence": 2,
+        "tool": "append"
+      }
+    ],
+    "result": "ok"
+  },
+  "metadata": {
+    "cpu": "Intel(R) Xeon(R) W-3223 CPU @ 3.50GHz",
+    "created_utc": "2026-11-09T18:28:21.140506+00:00",
+    "machine": "x86_64",
+    "measurement": "fixed synthetic correctness experiment; no latency claims",
+    "memory_bytes": 51539607552,
+    "paid_api_calls": 0,
+    "platform": "macOS-26.7.1-x86_64-i386-64bit",
+    "python": "3.11.13",
+    "revision": "7397b9c40f0f284c108f584966b8d6c803ebebcd",
+    "source_sha256": {
+      "agent_capabilities/__init__.py": "883fd7d255187baf23a7aa8089bf9a43feca4f744dc7d3da95784285af630e9e",
+      "agent_capabilities/broker.py": "9187d741e8e1bbcee00794a8964541d2f4badce28dc1f63171f424d5050f6af8",
+      "agent_capabilities/synthetic.py": "54ed61167c7874dd19901fa6916218b0685b45979ba7e38ecde12cc40adcfc36",
+      "experiments/__init__.py": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "experiments/reproduce.py": "bb1d587cdb3ab6021a20815f3773b9039327599a3abc188667b4848562296605",
+      "experiments/verify.py": "daec64c9462eed320859140293f51b68675b7da3dc8b663de9cf043b967ce9fd"
+    },
+    "working_tree_clean": true
+  },
+  "schema_version": 1,
+  "sequential": [
+    {
+      "after": {
+        "/owned/note": "ok"
+      },
+      "after_sha256": "353bf7b0280dfdb708ac5b693ad93bab3ad1fe1aaf2dd238f94aaa525223da74",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "valid",
+      "decision": {
+        "allowed": true,
+        "charged_bytes": 2,
+        "grant_id": 1,
+        "reason": "allowed",
+        "remaining_bytes": 6,
+        "remaining_calls": 1,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "allowed",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {
+        "/owned/note": "ok"
+      },
+      "after_sha256": "353bf7b0280dfdb708ac5b693ad93bab3ad1fe1aaf2dd238f94aaa525223da74",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "canonical_alias",
+      "decision": {
+        "allowed": true,
+        "charged_bytes": 2,
+        "grant_id": 1,
+        "reason": "allowed",
+        "remaining_bytes": 6,
+        "remaining_calls": 1,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "allowed",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned//./note/",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {
+        "/owned": "ok"
+      },
+      "after_sha256": "522f8e46281de373a0662514f7f5724f55df6a861df1aba7f506ff52dce31cdb",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "scope_root",
+      "decision": {
+        "allowed": true,
+        "charged_bytes": 2,
+        "grant_id": 1,
+        "reason": "allowed",
+        "remaining_bytes": 6,
+        "remaining_calls": 1,
+        "resource": "/owned",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "allowed",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "wrong_tool",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "tool_scope",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "read"
+      },
+      "expected_reason": "tool_scope",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "read"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "unregistered_tool",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "tool_scope",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "shell"
+      },
+      "expected_reason": "tool_scope",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "shell"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "sibling_prefix",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "resource_scope",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/owned-evil/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "resource_scope",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned-evil/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "outside_resource",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "resource_scope",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/secret",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "resource_scope",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/secret",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "parent_traversal",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "invalid_resource",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "invalid_resource",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/../secret",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "percent_escape",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "invalid_resource",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "invalid_resource",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/%2e%2e/secret",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "backslash",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "invalid_resource",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "invalid_resource",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned\\secret",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "nul",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "invalid_resource",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "invalid_resource",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/\u0000secret",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "unicode_path",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "invalid_resource",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "invalid_resource",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/\u2215secret",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "relative_path",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "invalid_resource",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "invalid_resource",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "extra_argument",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "argument_schema",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "argument_schema",
+      "request": {
+        "arguments": {
+          "admin": "1",
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "missing_argument",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "argument_schema",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "argument_schema",
+      "request": {
+        "arguments": {},
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "wrong_type",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "argument_schema",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "argument_schema",
+      "request": {
+        "arguments": {
+          "text": 1
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "oversized_argument",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "argument_scope",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "argument_scope",
+      "request": {
+        "arguments": {
+          "text": "xxxxxxxxx"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "forbidden_choice",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "argument_scope",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "argument_scope",
+      "request": {
+        "arguments": {
+          "text": "delete"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "invalid_utf8",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "argument_encoding",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "argument_encoding",
+      "request": {
+        "arguments": {
+          "text": "\ud800"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "forged_token",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": null,
+        "reason": "unknown_capability",
+        "remaining_bytes": null,
+        "remaining_calls": null,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "unknown_capability",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "malformed_token",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": null,
+        "reason": "unknown_capability",
+        "remaining_bytes": null,
+        "remaining_calls": null,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "unknown_capability",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "revoked",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "revoked",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "revoked",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "expired",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "expired",
+        "remaining_bytes": 8,
+        "remaining_calls": 2,
+        "resource": null,
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "expired",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "no_calls",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "call_budget",
+        "remaining_bytes": 8,
+        "remaining_calls": 0,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "call_budget",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    },
+    {
+      "after": {},
+      "after_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "before": {},
+      "before_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "case": "no_bytes",
+      "decision": {
+        "allowed": false,
+        "charged_bytes": 0,
+        "grant_id": 1,
+        "reason": "byte_budget",
+        "remaining_bytes": 0,
+        "remaining_calls": 2,
+        "resource": "/owned/note",
+        "sequence": 1,
+        "tool": "append"
+      },
+      "expected_reason": "byte_budget",
+      "request": {
+        "arguments": {
+          "text": "ok"
+        },
+        "resource": "/owned/note",
+        "tool": "append"
+      }
+    }
+  ]
+}

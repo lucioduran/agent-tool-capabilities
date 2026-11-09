@@ -1,0 +1,7 @@
+Name                              Stmts   Miss Branch BrPart  Cover   Missing
+-----------------------------------------------------------------------------
+agent_capabilities/__init__.py        2      0      0      0   100%
+agent_capabilities/broker.py        180      0     64      0   100%
+agent_capabilities/synthetic.py      16      0      0      0   100%
+-----------------------------------------------------------------------------
+TOTAL                               198      0     64      0   100%
